@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Sensitive Audio Lesson Guide: John Beecher, McComb \"Criminal Syndicalism\" Case" ] },
+    "summary": { "en": [ "This project is an example classroom lesson plan informed by AudiAnnotate’s “Presenting Sensitive Audio Using AudiAnnotate” lesson, both created by Bethany Radcliff and Kylie Warkentin. This lesson uses the “‘Criminal Syndicalism’ Case, McComb, Mississippi (Side 1)” recording from the John Beecher Sound Recordings Collection at the University of Texas’s Harry Ransom Center." ] },
+    "items": [
+    ]
+}
