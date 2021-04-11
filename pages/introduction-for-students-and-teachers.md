@@ -11,11 +11,12 @@ using HTML or markdown.  Do not modify this file above this line -->
 * [Before the Lesson](#before)
 * [Asynchronous Mini-Lesson](#mini-lesson)
 * [In-class Lesson Plan](#lesson)
+* [Additional Resources](#resources)
 
 
 
 <a name="before"></a>
-### Before the Lesson
+## Before the Lesson
 
 This project is an example classroom lesson informed by AudiAnnotate's ["Presenting Sensitive Audio Using AudiAnnotate" lesson](https://hipstas.github.io/AudiAnnotate/lessonplan.html), both created by Bethany Radcliff and Kylie Warkentin. This lesson uses the ["'Criminal Syndicalism' Case, McComb, Mississippi (Side 1)" recording](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1) from the [John Beecher Sound Recordings Collection](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1) at the [University of Texas's Harry Ransom Center](https://www.hrc.utexas.edu). 
 
@@ -25,7 +26,7 @@ For additional resources regarding working with sensitve audio in the classroom,
 
 
 <a name="mini-lesson"></a>
-### Asynchronous Mini Lesson
+## Asynchronous Mini Lesson
 
 ### Description:
 Documentation and resources provided as an asynchronous lesson to be completed before synchronous lesson in class. This should take about 30 minutes to complete, including listening to the audio.
@@ -53,7 +54,7 @@ Access AudiAnnotate's [documentation](https://hipstas.github.io/AudiAnnotate/doc
 After familiarizng yourself with AudiAnnotate, be sure to provide your students with the link to the ["Lesson Clip from "'Criminal Syndicalism' case, McComb, Mississippi (Side 1)"](https://kywark.github.io/example-beecher-syndicalism-lesson/lesson-clip-from-criminal-syndicalism-case-mccomb-mississippi-side-1-/#?c=&m=&s=&cv=) for students to listen to before class. You may also choose to share with students [this fully fleshed out Beecher recording project](https://kywark.github.io/beecher-syndicalism/), created by Bethany Radcliff and Kylie Warkentin.
 
 <a name="lesson"></a>
-# Beecher Criminal Syndicalism Case, McComb, Mississippi (Side 1) Sample Lesson Plan (1 hour)
+## Beecher Criminal Syndicalism Case, McComb, Mississippi (Side 1) Sample Lesson Plan (1 hour)
 
 ### Description
 Students will understand the processes and philosophy behind audio annotations, with the possibility of presenting annotations using AudiAnnotate. Students will learn about the annotation process, and instructors will be provided with documentation on how to create an AudiAnnotate project. 
@@ -96,7 +97,8 @@ Demonstrate historical empathy, curiosity about the past, and appreciation for h
 4. Whole Class/Potential Closing: Brief Presentations with Instructor Evaluation (8min)
 5. POTENTIAL Extension Activity Using Hypothesis (10min or homework)
 
-### Additional Resources
+<a name="resources"></a>
+## Additional Resources
 <em>Working with Sensitive Archival Material:</em>
 - AudiAnnotate's An Introduction to Annotating and Presenting Sensitive Audio Using AudiAnnotate
 - Metadata language when working with potentially sensitive archival materials
