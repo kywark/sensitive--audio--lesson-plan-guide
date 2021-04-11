@@ -6,6 +6,17 @@ permalink: introduction-for-students-and-teachers
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 
+# Teacher's Guide
+
+* [Before the Lesson](#before)
+* [Asynchronous Mini-Lesson](#mini-lesson)
+* [In-class Lesson Plan](#lesson)
+
+
+
+<a name="before"></a>
+### Before the Lesson
+
 This project is an example classroom lesson informed by AudiAnnotate's ["Presenting Sensitive Audio Using AudiAnnotate" lesson](https://hipstas.github.io/AudiAnnotate/lessonplan.html), both created by Bethany Radcliff and Kylie Warkentin. This lesson uses the ["'Criminal Syndicalism' Case, McComb, Mississippi (Side 1)" recording](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1) from the [John Beecher Sound Recordings Collection](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1) at the [University of Texas's Harry Ransom Center](https://www.hrc.utexas.edu). 
 
 To use this project as a lesson, first read through the full outline of the lesson below. Each step of the lesson has been split into different items in the project (displayed as links on [the project page](https://bethanycayeradcliff.github.io/sensitive--audio--lesson-plan-guide/). The [Teacher's Guide]() includes a lesson plan and steps for the instructor teaching this material. The [Student Guide] is the student-facing guide that will walk students through the interactive portions of the lesson. 
@@ -13,6 +24,35 @@ To use this project as a lesson, first read through the full outline of the less
 For additional resources regarding working with sensitve audio in the classroom, see the [Teacher's Guide](). 
 
 
+<a name="mini-lesson"></a>
+### Asynchronous Mini Lesson
+
+### Description:
+Documentation and resources provided as an asynchronous lesson to be completed before synchronous lesson in class. This should take about 30 minutes to complete, including listening to the audio.
+
+### Lesson Goals:
+- Students and instructors will review annotation documentation materials and listen/explore AudiAnnotate project with Side 1 of the Beecher audio from the Harry Ransom Center.
+- Instructors will review AudiAnnotate documentation materials. 
+
+### About the Audio:
+In this lesson, students will be working with the ["'Criminal Syndicalism' case, McComb, Mississippi (Side 1)"](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1) from the [John Beecher Sound Recordings Collection](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1) at the [University of Texas’s Harry Ransom Center](https://www.hrc.utexas.edu). We have created an item in this project ("Lesson Clip from "'Criminal Syndicalism' case, McComb, Mississippi (Side 1)") for students to listen to the clip used in the lesson with the warnings for the racial slur and explicit language. <strong>Though this information is reproduced above the item in this project, we recommend instructor(s) share the following information about the audio with students in advance of the synchronous lesson so students may be better prepared to work with the sensitive material or express any discomfort that may prevent them from engaging with the lesson.</strong>
+
+**Recording Description:** This recording was recorded October 19, 1964 by John Beecher and his wife, Barbara. The recording begins with John Beecher and members of the Council of Federated Organizations (COFO) meeting with Black high school students and their parents after these students were released from jail in McComb, Mississippi on charges of criminal syndicalism, in which it seems the students have been falsely accused of damaging property by throwing a brick. Beecher speaks with the group about the importance of voting and fighting for equal treatment in the voting process. A white arrested member of COFO discusses how his experience in jail was different than that of the Black students, how he was released without bond, and that his release was sooner. The students discuss the conditions in the jail and the treatment by policemen and guards. The parents of the students discuss how they were given limited interaction with their children, and how officers made visits a challenge.
+
+**Audio Content Warning:** In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting white police officers. Listening to the second side of the recording is not necessary for this lesson and will not be discussed in this lesson, but as a warning, it includes multiple racial slurs, at 4:58, said by a white man; at 5:48 by a man quoting a police officer; at 7:00, 7:04, 7:08, 7:09, by a woman quoting a police officer; at 9:15 by a man quoting a police officer; at 11:42, 11:57, and 12:32  by a woman quoting a police officer. Explicit language is also used by a woman quoting a police officer at 10:48.
+
+**Description of Clip Used in Lesson:** The clip we will discuss in class is 14:07-15:37. In this portion of the recording, Beecher asks the students if they had recreational privileges while in jail, to which the students reply they could not even leave the cell. Beecher asks about food given to them in prison, which the students say was often cold pork and beans from the can, and that they were denied coffee, and given a small breakfast. The students also discuss how the guards/officers were dismissive of their singing and would threaten to drag their mattresses out and make the students sleep on the concrete if they continued sleeping.
+
+### Steps for Instructor(s):
+Access AudiAnnotate's [documentation](https://hipstas.github.io/AudiAnnotate/documentation.html) to:
+- <strong>Create a GitHub account.</strong> You will need this to login to AudiAnnotate.
+- <strong>Create a project in AudiAnnotate.</strong> This project will host all your student groups' annotations for the Beecher "Criminal Syndicalism" recording.
+- <strong>Create item(s) in AudiAnnotate.</strong> We recommend you create one item per student group. 
+- <strong>Familiarize yourself with general functions and best practices of AudiAnnotate.</strong> Depending on the skill level of your class, you may choose to have students create their own GitHub accounts to work with AudiAnnotate directly or you may upload and present group annotations by yourself. This lesson is written with the latter in mind, but can be easily adapted for students to follow the same steps in the documentaiton to work directly with AudiAnnotate themselves.
+
+After familiarizng yourself with AudiAnnotate, be sure to provide your students with the link to the ["Lesson Clip from "'Criminal Syndicalism' case, McComb, Mississippi (Side 1)"](https://kywark.github.io/example-beecher-syndicalism-lesson/lesson-clip-from-criminal-syndicalism-case-mccomb-mississippi-side-1-/#?c=&m=&s=&cv=) for students to listen to before class. You may also choose to share with students [this fully fleshed out Beecher recording project](https://kywark.github.io/beecher-syndicalism/), created by Bethany Radcliff and Kylie Warkentin.
+
+<a name="lesson"></a>
 # Beecher Criminal Syndicalism Case, McComb, Mississippi (Side 1) Sample Lesson Plan (1 hour)
 
 ### Description
